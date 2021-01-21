@@ -1,4 +1,4 @@
 # first-try
-This is my first try to make a github reposoretie.
+This is my first try to make a github repository.
 # For what is it?
 No idea.
